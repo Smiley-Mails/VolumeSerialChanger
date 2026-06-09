@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="VolumeSerialChanger/VolumeSerialChanger.vcxproj" Id="78888bef-849b-4560-b686-009415ef3a51" />
+</Solution>
